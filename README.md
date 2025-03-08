@@ -23,7 +23,6 @@ The dataset used for this project is from **Maven Analytics**.
 🔗 [Dataset Link](https://mavenanalytics.io/data-playground?page=6&pageSize=5)  
 
 ## 📊 Dashboard  
-## 📊 Dashboard  
 ![Coffee Shop Sales Dashboard](https://raw.githubusercontent.com/Punit-Kumawat/Coffee-Shop-Sales/refs/heads/main/Dashboard%20picture%20Coffee%20Shop%20Sales.png)
 
 
