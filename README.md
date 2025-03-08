@@ -23,7 +23,9 @@ The dataset used for this project is from **Maven Analytics**.
 🔗 [Dataset Link](https://mavenanalytics.io/data-playground?page=6&pageSize=5)  
 
 ## 📊 Dashboard  
-![Coffee Shop Sales Dashboard](https://raw.githubusercontent.com/Punit-Kumawat/Coffee-Shop-Sales/main/dashboard.png)
+## 📊 Dashboard  
+![Coffee Shop Sales Dashboard](https://raw.githubusercontent.com/Punit-Kumawat/Coffee-Shop-Sales/refs/heads/main/Dashboard%20picture%20Coffee%20Shop%20Sales.png)
+
 
 ## 👨‍💻 About Me  
 I am a **Fresher Data Analyst**, and this is my **first data analytics project**, which I have built entirely on my own. Through this project, I have applied my **Excel, Power Query, and Pivot Table** skills to analyze sales data and gain insights.  
